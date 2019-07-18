@@ -1,0 +1,39 @@
+.login-form{
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+.password-field{
+    margin: 8px auto;
+    width: 200px;
+    height: 35px;
+    text-align: center;
+}
+.password-field:focus{
+    outline: none;
+    }
+
+.username-field{
+    margin: 8px auto;
+    width: 200px;
+    height: 35px;
+    text-align: center;
+}
+.username-field:focus{
+outline: none;
+}
+
+.login-btn{
+    margin: 8px auto;
+    width: 100px;
+    height: 35px;
+    border: 2px solid grey;
+    background-color: white;
+}
+
+.login-btn:hover{
+    color: white;
+    background-color: black;
+}

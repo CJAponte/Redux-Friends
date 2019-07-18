@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+
+.login{
+  text-decoration: none;
+  color: black;
+  font-size: 25px;
+  margin-top: 15px;
+}
+
+.login:hover{
+  text-shadow: 1px 1px 1px black;
+  color: white;
+}
